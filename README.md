@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @FriedEgg09
-- 👀 I know python, dart and a little about many more. I make games with pygame and mobile apps with flutter and dart.
-- 🌱 I’m currently making flutter app.
-- 📫 Email: rasmus.ankka@gmail.com
+.
